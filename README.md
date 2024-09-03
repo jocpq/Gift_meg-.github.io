@@ -1,4 +1,0 @@
-webentrete
-==========
-
-Animación para cumpleaños
